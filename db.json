@@ -1,0 +1,41 @@
+{
+    "student": [
+        {   
+            "id": 1,
+            "name": "John Doe",
+            "age": 25,
+            "course": "Computer Science",
+            "email": "john.doe@example.com"
+        },
+        {   
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 22,
+            "course": "Mathematics",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "age": 24,
+            "course": "Physics",
+            "email": "alice.johnson@example.com"
+        },
+        {
+            "id": 4,
+            "name": "Bob Brown",
+            "age": 23,
+            "course": "Chemistry",
+            "email": "bob.brown@example.com"
+        },
+        {
+            "id": 5,
+            "name": "Charlie Davis",
+            "age": 21,
+            "course": "Biology",
+            "email": "charlie.davis@example.com"    
+        }
+
+
+]
+}

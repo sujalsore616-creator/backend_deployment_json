@@ -1,0 +1,25 @@
+{
+  "name": "backend_deployment_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujalsore616-creator/backend_deployment_json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sujalsore616-creator/backend_deployment_json/issues"
+  },
+  "homepage": "https://github.com/sujalsore616-creator/backend_deployment_json#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "json-server": "^0.17.4"
+  }
+}
